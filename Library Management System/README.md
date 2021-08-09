@@ -2,11 +2,11 @@
 Library Management System
 
 ### Library Management System(classes/functions):
-1. [x] Borrow (Carmen)
-2. [ ] Reserve (Jada)
-3. [x] Register book (Sandra) 
-4. [x] Register user(Aman)
-5. [x] Search books (Phoebe)
-6. [x] Suggestion to user or admin? (Based on popularity of book) (Carmen)
-7. [x] Return books (Aman)
-8. [ ] Renew = 1. + 2. (Jada)
+1. [x] Borrow 
+2. [ ] Reserve 
+3. [x] Register book 
+4. [x] Register user
+5. [x] Search books 
+6. [x] Suggestion to user or admin? (Based on popularity of book) 
+7. [x] Return books
+8. [ ] Renew = 1. + 2. 
